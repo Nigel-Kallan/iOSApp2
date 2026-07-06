@@ -7,11 +7,15 @@
 
 import SwiftUI
 
+// Entry Point of the scavenger hunt application.
 @main
 struct ScavengerHuntApp: App {
+
     var body: some Scene {
+
         WindowGroup {
-            ContentView()
+
+            HomeView()
         }
     }
 }
