@@ -19,6 +19,13 @@ struct HomeView: View {
 
             VStack(spacing: 30) {
 
+                Text("Welcome to the Scavenger Hunt!")
+                    .font(.title2)
+
+                Image(systemName: "map.fill")
+                    .font(.system(size: 70))
+                    .foregroundColor(.blue)
+
                 Text("Scavenger Hunt")
                     .font(.largeTitle)
 

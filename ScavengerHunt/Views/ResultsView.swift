@@ -25,6 +25,9 @@ struct ResultsView: View {
                 reward: vm.rewardMessage()
             )
 
+            Text("Completion: \(vm.completionPercentage)%")
+                .font(.headline)
+            
             // Submits the user's scavenger hunt results.
             Button("Submit Results") {
 

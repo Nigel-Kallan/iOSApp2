@@ -87,6 +87,10 @@ class HuntViewModel: ObservableObject {
         }
     }
 
+    // Calculates the percentage of items found.
+    var completionPercentage: Int {
+        (foundCount * 100) / items.count
+    }
     // Simulates submitting results.
     func submitResults() {
         print("Results Submitted")
