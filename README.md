@@ -89,22 +89,15 @@ The application contains the following screens:
 
 
 ### Hunt List
-![Hunt List](Screenshots/HuntList.png)
+<img width="414" height="730" alt="Hunt List" src="https://github.com/user-attachments/assets/a86e1764-b201-4670-a8e8-63f209e4abb3" />
+
 
 ### Item Detail
-![Item Detail](Screenshots/ItemDetail.png)
+<img width="372" height="721" alt="ITEM DETAIL" src="https://github.com/user-attachments/assets/f1b2c926-afc7-4e79-83a0-62478d769587" />
+
 
 ### Results
-![Results](Screenshots/Results.png)
-
-### Hunt List
-![Hunt List](Screenshots/HuntList.png)
-
-### Item Detail
-![Item Detail](Screenshots/ItemDetail.png)
-
-### Results
-![Results](Screenshots/Results.png)
+<img width="367" height="711" alt="RESULTS" src="https://github.com/user-attachments/assets/3db28cc4-471e-49d6-8bcd-6f3eb28809a3" />
 
 
 ---
