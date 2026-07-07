@@ -83,11 +83,9 @@ The application contains the following screens:
 
 ## Screenshots
 
-### Home Screen
-!## Screenshots
 
 ### Home Screen
-!<img width="407" height="738" alt="HOME SCREEN" src="https://github.com/user-attachments/assets/17dec97b-7115-4f67-a3e0-72e1162f03f1" />
+<img width="407" height="738" alt="HOME SCREEN" src="https://github.com/user-attachments/assets/17dec97b-7115-4f67-a3e0-72e1162f03f1" />
 
 
 ### Hunt List
